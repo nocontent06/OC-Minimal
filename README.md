@@ -12,3 +12,11 @@ all you need to do is:
 4. Paste the .kext file into your EFI/OC/Kexts Folder
 5. Open config.plist and do a OC Snapshot (when you use ProperTree by CorpNewt)
 
+
+# Remove Kext
+When you wanna remove a Kext, do following:
+
+1. Delete the Kext file from EFI/OC/Kexts
+2. Open your config.plist with ProperTree
+3. Go to File > OC Snapshot (or press CMD/CTRL + R)
+
